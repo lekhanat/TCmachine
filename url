@@ -1,1 +1,2 @@
-key=121334
+VUE_APP_BASE_API = https://www.toruncoffeemachine.com/app
+VUE_APP_BASE_WS = 'wss://www.toruncoffeemachine.com/ws'
